@@ -9,6 +9,6 @@ At this point, learning how to use provider pattern became inevitable, cause coi
 
 I added link as i learnt to use provider pattern... 
 
-1 - (https://www.freecodecamp.org/news/provider-pattern-in-flutter/) didnt make sense but helped by just showing the provider patterN door
+1 - (https://www.freecodecamp.org/news/provider-pattern-in-flutter/) wasnt enough but helped by just showing the provider pattern door
 
 2 - 
